@@ -6,8 +6,6 @@ ArduPilot is an open-source autopilot software used to control and automate vehi
 
 ArduPilot parameters are configuration values used to define the behavior, control, and hardware settings of the vehicle. The repository contains parameter configurations for a hexacopter.
 
-### Parameter Categories
-
 - **Flight Control Parameters**  
   Configure stabilization, attitude control, rate control, and overall flight behavior.
 
